@@ -1,1 +1,1 @@
-Маленький jquery plugin, который позволяет прокручивать страницу в нужное место и с заданной скоростью. Список передается в виде массива.
+Small jquery plugin, which allows you to scroll the page to the right place and at a predetermined rate. List is passed as an array.
